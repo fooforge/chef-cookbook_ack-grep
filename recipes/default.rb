@@ -17,4 +17,12 @@
 # limitations under the License.
 #
 
-package "ack-grep"
+package "ack-grep" do
+  case node[:platform]
+  when "centos","redhat","fedora"
+    package_name "ack"
+  when "debian","ubuntu"
+    package_name "ack-grep"
+  end
+  action :install
+end
