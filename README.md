@@ -20,7 +20,6 @@ LICENSE AND AUTHOR
 Author:: Christopher Peplin <contact@rhubarbtech.com>
 Contributor:: Mike Adolphs <mike@fooforge.com>
 
-Author:: Christopher Peplin <contact@rhubarbtech.com>
 Copyright:: 2011, Christopher Peplin <contact@rhubarbtech.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
