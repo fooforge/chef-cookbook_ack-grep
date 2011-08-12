@@ -1,0 +1,6 @@
+maintainer       "Christopher Peplin"
+maintainer_email "chris.peplin@rhubarbtech.com"
+license          "Apache 2.0"
+description      "Installs ack-grep"
+version          "0.1"
+supports         "ubuntu"

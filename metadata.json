@@ -1,0 +1,32 @@
+{
+  "name": "ack-grep",
+  "description": "Installs ack-grep",
+  "long_description": "",
+  "maintainer": "Christopher Peplin",
+  "maintainer_email": "chris.peplin@rhubarbtech.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": [
+
+    ]
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+  },
+  "version": "0.1.0"
+}
