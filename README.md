@@ -17,7 +17,7 @@ good to go!
 LICENSE AND AUTHOR
 ==================
 
-Author:: Christopher Peplin <contact@rhubarbtech.com>
+Author:: Christopher Peplin <contact@rhubarbtech.com>  
 Contributor:: Mike Adolphs <mike@fooforge.com>
 
 Copyright:: 2011, Christopher Peplin <contact@rhubarbtech.com>
